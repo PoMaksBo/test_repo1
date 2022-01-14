@@ -13,7 +13,7 @@ function test(a) {
  }
 }
 
-function fib(n) {
+function rec_deb(n) {
  if (n<2) { return 1}
  while (i < n-2) {
   s = fib1 + fib2
